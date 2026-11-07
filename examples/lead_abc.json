@@ -1,0 +1,9 @@
+{
+  "id": "L-001",
+  "name": "Công ty Sản xuất ABC",
+  "tax_code": "0312345678",
+  "budget": 2500000000,
+  "roof_area_m2": 1000,
+  "monthly_bill": 60000000,
+  "owns_roof": true
+}
